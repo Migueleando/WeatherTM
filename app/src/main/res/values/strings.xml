@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherTM</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchCityHint">City</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_single_item_view">SingleItemView</string>
+</resources>
